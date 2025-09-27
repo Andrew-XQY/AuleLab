@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://andrew-xqy.github.io/AuleLab/">
-    <img src="https://raw.githubusercontent.com/Andrew-XQY/AuleLab/9feba3930f468ca95b35401232a6febd66f2432c/images/logo.png"
+    <img src="https://raw.githubusercontent.com/Andrew-XQY/AuleLab/7c403b890b0bc7cb977e312a4dbbc905a80ca702/logo/logo.png"
      alt="AuleLab Logo" width="128" height="128">
   </a>
   <p align="center">
