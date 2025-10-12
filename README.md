@@ -56,6 +56,13 @@ pip install -e .
 
 ---
 
+## Built With
+
+1. Final dataset needs to be in Shard (sharded containers, ~500–1000 samples each) instead of many individual files or one bit .tar (build converters?)
+2. Completely decouple and isolation between devices, trying to make no dependency. Clean API definition and logic map.
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
