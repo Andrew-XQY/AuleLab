@@ -58,7 +58,7 @@ pip install -e .
 
 ## TODO
 
-1. Final dataset needs to be in Shard (sharded containers, ~500–1000 samples each) instead of many individual files or one bit .tar (build converters?)
+1. Final dataset needs to be in Shard (sharded containers, ~500–1000 samples each) instead of many individual files or one big .tar (build converters?)
 2. Completely decouple and isolation between devices, trying to make no dependency. Clean API definition and logic map.
 3. Data collection logic: ingest → validate → convert (shard) → publish pipeline.
 
