@@ -56,6 +56,11 @@ pip install -e .
 
 ---
 
+## Contributors & Stewardship
+
+- Andrew Xu — original architect and hardware wrangler
+- HAL — resident research copilot enlisted as a future contributor for documentation and automation polish
+
 ## TODO
 
 1. Final dataset needs to be in Shard (sharded containers, ~500–1000 samples each) instead of many individual files or one big .tar (build converters?)
